@@ -14,4 +14,4 @@
 2. **Extract:** Unzip the files.
 3. **Open Terminal:** Navigate to the folder.
 4. **Execute:** ```bash
-   python main.py
+   python betting_project.py
