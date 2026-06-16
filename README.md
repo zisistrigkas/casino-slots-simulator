@@ -10,8 +10,7 @@
 - **Visual Feedback:** Animated spinning effect with color-coded winning lines.
 
 ## 🚀 How to Run
-1. **Download:** Click the green **[Code]** button -> **[Download ZIP]**.
-2. **Extract:** Unzip the files.
-3. **Open Terminal:** Navigate to the folder.
-4. **Execute:** ```bash
-   python betting_project.py
+Download: Click the green [Code] button -> [Download ZIP].
+Extract: Unzip the files.
+Open Terminal: Open PowerShell or Command Prompt in the project folder.
+Execute: Run the following command: python betting_project.py
