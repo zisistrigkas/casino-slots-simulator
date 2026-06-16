@@ -1,23 +1,17 @@
-# Casino Slots Simulator
+### 2. Casino Slots Pro
+```markdown
+# 🎰 Golden Slots Pro Simulator
 
-A Python-based slot machine simulation that demonstrates game logic, weighted probability distributions, and GUI development.
+> *A high-fidelity slot machine engine featuring weighted probability mechanics and real-time bankroll management.*
 
-## 🎰 Features
-- **Weighted Probabilities:** Uses a custom probability pool to define the rarity of different symbols (e.g., Diamonds are rarer than Cherries).
-- **Game Engine:** Handles bets, lines, and payouts dynamically based on user input.
-- **Interactive UI:** Built with `tkinter`, featuring status updates and balance management.
-
-## ⚙️ How it Works
-1. **Balance Management:** The system validates bets against the current balance.
-2. **Animation Loop:** Uses a `root.after` loop to simulate spinning reels.
-3. **Logic Engine:** Checks for matching symbols across selected lines and calculates total winnings.
-
-## 🛠 Prerequisites
-- Python 3.x
-- `tkinter`
+## 💎 Features
+- **Weighted Logic:** Symbols (Diamonds, Cherries, etc.) have specific spawn rates, mimicking real casino math.
+- **Bankroll Engine:** Tracks your balance in real-time and prevents illegal bets.
+- **Visual Feedback:** Animated spinning effect with color-coded winning lines.
 
 ## 🚀 How to Run
-1. Clone this repository: `git clone https://github.com/zisistrigkas/casino-slots-simulator.git`
-2. Run the application:
-   ```bash
-   python betting_project.py
+1. **Download:** Click the green **[Code]** button -> **[Download ZIP]**.
+2. **Extract:** Unzip the files.
+3. **Open Terminal:** Navigate to the folder.
+4. **Execute:** ```bash
+   python main.py
